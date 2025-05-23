@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+iremovalpro.com	TRUE	/	FALSE	1999999999	PHPSESSID	fa7d861fe713336477aa69450cb45101
+

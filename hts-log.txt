@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 May 2025 20:46:36 at https://iremovalpro.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iremovalpro.com/ -O1 "C:\My Web Sites\https___iremovalpro.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:46:47	Error: 	"Not Found" (404) at link https://iremovalpro.com/xhr.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+20:46:47	Error: 	"Not Found" (404) at link https://iremovalpro.com/GET (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+20:46:47	Error: 	"Not Found" (404) at link https://iremovalpro.com/lib/widget-management.js (from https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js)
+20:46:47	Error: 	"Not Found" (404) at link https://iremovalpro.com/images/favicon-32x32.png (from https://iremovalpro.com/Paya12.php)
+20:46:47	Error: 	"Not Found" (404) at link https://iremovalpro.com/terms-of-agreement (from https://iremovalpro.com/Paya12.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 24 links scanned, 18 files written (615631 bytes overall) [300278 bytes received at 27298 bytes/sec], 483871 bytes transferred using HTTP compression in 22 files, ratio 32%, 2.1 requests per connection
+(5 errors, 0 warnings, 0 messages)
